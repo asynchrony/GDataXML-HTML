@@ -15,7 +15,7 @@
 
 
 #import "GDataXML_HTMLViewController.h"
-#import "lib/GDataXMLNode.h"
+#import <GDataXML-HTML/GDataXMLNode.h>
 
 @implementation GDataXML_HTMLViewController
 @synthesize textView;
