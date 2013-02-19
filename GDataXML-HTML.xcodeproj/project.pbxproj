@@ -208,6 +208,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GDataXML-HTML/GDataXML-HTML-Prefix.pch";
 				HEADER_SEARCH_PATHS = "\"$(SDKROOT)\"/usr/include/libxml2";
+				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = "-ObjC";
 				PRIVATE_HEADERS_FOLDER_PATH = "/usr/local/include/GDataXML-HTML";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -223,6 +224,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GDataXML-HTML/GDataXML-HTML-Prefix.pch";
 				HEADER_SEARCH_PATHS = "\"$(SDKROOT)\"/usr/include/libxml2";
+				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = "-ObjC";
 				PRIVATE_HEADERS_FOLDER_PATH = "/usr/local/include/GDataXML-HTML";
 				PRODUCT_NAME = "$(TARGET_NAME)";
